@@ -16,7 +16,6 @@
   },
   "main": "background.js",
   "dependencies": {
-    "@mdi/font": "5.9.55",
     "core-js": "^3.6.5",
     "electron-squirrel-startup": "^1.0.0",
     "register-service-worker": "^1.7.1",
@@ -32,6 +31,7 @@
     "@electron-forge/maker-rpm": "^6.0.0-beta.54",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.54",
     "@electron-forge/maker-zip": "^6.0.0-beta.54",
+    "@mdi/font": "^5.9.55",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-plugin-pwa": "~4.5.0",

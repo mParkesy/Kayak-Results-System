@@ -18,6 +18,12 @@
             </v-list-item-icon>
             <v-list-item-title>Home</v-list-item-title>
           </v-list-item>
+          <v-list-item :to="{ name: 'Race'}">
+            <v-list-item-icon>
+              <v-icon>mdi-flag-checkered</v-icon>
+            </v-list-item-icon>
+            <v-list-item-title>Current Race</v-list-item-title>
+          </v-list-item>
 
         </v-list-item-group>
       </v-list>
